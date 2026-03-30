@@ -21,10 +21,10 @@ A personal portfolio website built for Tinevimbo Rwodzi, an Information Security
    - Alternatively, you can use a local server like VS Code's Live Server extension.
 
 ## Live Demo Link
-[Insert your live demo link here after deploying to GitHub Pages, Netlify, or Vercel]
+https://rwodzitinevimbo4-hash.github.io/-portfolio-project/
 
 ## Replacing the Profile Picture
-To use your own professional photo:
+To use own professional photo:
 1. Add your image file to the project directory.
 2. Open `index.html` and locate the `<img>` tag inside the `<div class="hero-image">` container (around line 43).
 3. Replace the `src` attribute with the path to your image (e.g., `src="my-profile-pic.jpg"`).
