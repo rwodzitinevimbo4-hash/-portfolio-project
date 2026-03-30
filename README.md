@@ -15,7 +15,7 @@ A personal portfolio website created by Tinevimbo Rwodzi, an Information Securit
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <repository-name>
+   cd <portfolio-project>
    ```
 3. Open `index.html` in your preferred web browser to view the website locally.
   
