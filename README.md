@@ -1,7 +1,7 @@
 # Tinevimbo Rwodzi - InfoSec Portfolio
 
 ## Project Description
-A personal portfolio website built for Tinevimbo Rwodzi, an Information Security student. The website showcases his biography, skills, education, and projects, utilizing a modern beige and pink gradient theme. It is built entirely with semantic HTML5 and CSS3, focusing on a mobile-first responsive design without the use of JavaScript.
+A personal portfolio website created by Tinevimbo Rwodzi, an Information Security student. The website showcases his biography, skills, education, and projects, utilizing a modern beige and pink gradient theme. It is built entirely with semantic HTML5 and CSS3, focusing on a mobile-first responsive design without the use of JavaScript.
 
 ## Technologies Used
 - **HTML5**: Semantic markup for structuring the content.
@@ -18,7 +18,7 @@ A personal portfolio website built for Tinevimbo Rwodzi, an Information Security
    cd <repository-name>
    ```
 3. Open `index.html` in your preferred web browser to view the website locally.
-   - Alternatively, you can use a local server like VS Code's Live Server extension.
+  
 
 ## Live Demo Link
 https://rwodzitinevimbo4-hash.github.io/-portfolio-project/
