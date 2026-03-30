@@ -11,7 +11,7 @@ A personal portfolio website created by Tinevimbo Rwodzi, an Information Securit
 ## Setup Instructions
 1. Clone this repository to your local machine:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/rwodzitinevimbo4-hash/-portfolio-project.git
    ```
 2. Navigate to the project directory:
    ```bash
